@@ -6629,7 +6629,7 @@
 		)
 	)
 	(gr_text "VCC\n"
-		(at 146.595 111.788571 90)
+		(at 146.5 111.788571 90)
 		(layer "F.SilkS")
 		(uuid "82bab916-4185-40f9-bfef-d6e588a2629e")
 		(effects
@@ -6641,7 +6641,7 @@
 		)
 	)
 	(gr_text "SDA"
-		(at 146.595 109.094286 90)
+		(at 146.5 109.094286 90)
 		(layer "F.SilkS")
 		(uuid "8809eec0-9bbf-4ce1-8d96-dc188d909d01")
 		(effects
@@ -6713,7 +6713,7 @@
 		)
 	)
 	(gr_text "GND"
-		(at 146.595 114.54 90)
+		(at 146.5 114.54 90)
 		(layer "F.SilkS")
 		(uuid "da5ad36a-ff96-4d10-952b-7f3c52edb6d6")
 		(effects
@@ -6725,7 +6725,7 @@
 		)
 	)
 	(gr_text "SCL"
-		(at 146.595 106.4 90)
+		(at 146.5 106.3 90)
 		(layer "F.SilkS")
 		(uuid "ebd599d3-6c07-42e3-8457-9fac5baa4f78")
 		(effects
