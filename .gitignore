@@ -1,3 +1,7 @@
 GERBERS/
 fp-info-cache
 MCU_Datalogger-backups/
+#auto_saved_files#
+fp-lib-table
+sym-lib-table
+~MCU_Datalogger.kicad_pcb.lck
